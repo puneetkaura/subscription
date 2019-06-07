@@ -1,4 +1,4 @@
-# Its a subscription world ! . Last updated 13th May, 2019
+# Its a subscription world ! . Last updated 07th June, 2019
 ### List of my subscription (Personal and Professional)
 1. Netflix
 2. Amazon Prime
