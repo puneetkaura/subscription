@@ -20,7 +20,7 @@
 18. Sony Live premium
 19. ZEE5 premium
 20. Grofers Bachat club
-21  Favourites.io
+21. Favourites.io
 
 
 
