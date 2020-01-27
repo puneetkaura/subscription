@@ -1,4 +1,4 @@
-# Its a subscription world ! . Last updated 2nd July, 2019
+# Its a subscription world ! . Last updated 27th Jan, 2020
 ### List of my subscription (Personal and Professional)
 1. Netflix
 2. Amazon Prime
@@ -21,6 +21,9 @@
 19. ZEE5 premium
 20. Grofers Bachat club
 21. Favourites.io
+22. Notion - personal plan
+23. Youtube premium
+24. Network capital premium - FB paid group
 
 
 
