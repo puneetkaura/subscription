@@ -1,4 +1,4 @@
-# Its a subscription world ! . Last updated 27th Jan, 2020
+# Its a subscription world ! . Last updated 28th Jan, 2020
 ### List of my subscription (Personal and Professional)
 1. Netflix
 2. Amazon Prime
@@ -24,6 +24,7 @@
 22. Notion - personal plan
 23. Youtube premium
 24. Network capital premium - FB paid group
+25. Microsoft Office 365
 
 
 
